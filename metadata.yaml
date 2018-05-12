@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1293
     wikipedia: http://en.wikipedia.org/wiki/Benjamin_Harrison
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44682#Speeches-of-Benjamin-HarrisonTwenty-third-President-of-the-United-States
 gutenberg_issued: '2014-01-16'
 gutenberg_type: Text
 identifiers:
