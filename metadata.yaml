@@ -1,0 +1,35 @@
+_repo: Speeches-of-Benjamin-HarrisonTwenty-third-President-of-the-United-States_44682
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Hedges, Charles
+    gutenberg_agent_id: '46843'
+    url: http://www.gutenberg.org/2009/agents/46843
+covers:
+- cover_type: archival
+  image_path: 44682-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Harrison, Benjamin
+    alias: United States President (1889-1893)
+    birthdate: 1833
+    deathdate: 1901
+    gutenberg_agent_id: '1293'
+    url: http://www.gutenberg.org/2009/agents/1293
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Harrison
+description: ''
+gutenberg_issued: '2014-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44682'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government'
+- !lcc 'E660'
+- !lcsh 'Speeches, addresses, etc., American'
+- !lcsh 'Harrison, Benjamin, 1833-1901'
+title: Speeches of Benjamin Harrison, Twenty-third President of the United States
+url: http://www.gutenberg.org/ebooks/44682
